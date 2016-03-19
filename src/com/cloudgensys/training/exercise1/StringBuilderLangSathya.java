@@ -19,6 +19,6 @@ public class StringBuilderLangSathya {
 		System.out.println("Padma");
 		System.out.println("Amma");
 		System.out.println("Nanna");
-		System.out.println("Äppaji");;;;
+		System.out.println("Äppaji");;;;;;
 	}
 }
