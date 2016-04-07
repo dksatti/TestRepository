@@ -8,7 +8,7 @@ public class StringBuilderLangSathya {
 		float Start = System.nanoTime();
 		StringBuilder sb = new StringBuilder("HI");
 		for (int i=0; i<100000; i++){
-			sb.append(i);
+			sb.append(i);''
 		}
 		System.out.println(sb);
 		
@@ -16,7 +16,10 @@ public class StringBuilderLangSathya {
 		System.out.println("Total Execution time" +Total);
 		System.out.println("Sathya");
 		System.out.println("Srinu");
+<<<<<<< master
 		System.out.println("Padma");;;;
 		System.out.println("Äkka");
+=======
+>>>>>>> bd410f5 This is a change on 4/7 - l1
 	}
 }
